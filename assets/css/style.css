@@ -5,3 +5,30 @@
     box-sizing: border-box;
 
 }
+
+.title{
+
+    text-align: center;
+    padding: 1rem;
+
+}
+
+.container{
+
+    width: 90%;
+    margin: auto;
+    border: 1px solid black;
+
+}
+
+.row{
+
+    width: 100%;
+
+}
+
+.element{
+
+    
+
+}

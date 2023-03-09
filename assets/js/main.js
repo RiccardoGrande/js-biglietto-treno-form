@@ -8,7 +8,6 @@ va applicato uno sconto del 40% per gli over 65. */
 
 
 
-
 const numberKilometer = prompt('Quanti chilometri devi percorrere?');
 
 console.log(numberKilometer);
